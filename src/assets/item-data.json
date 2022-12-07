@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Personas Project",
+    "description": "This project I created personas",
+    "image": "personas.png",
+    "url": "https://excitedelephant401.github.io/personas/"
+  },
+  {
+    "name": "Responsive Redesign",
+    "description": "This is a website I redesigned",
+    "image": "responsiveRedesign.png",
+    "url":"https://excitedelephant401.github.io/redesignedSite/"
+  },
+  {
+    "name": "Iterative Design",
+    "description": "A group iterative project",
+    "image": "iterative.png",
+    "url": "https://cs1300-iterative-design.pages.dev/#lofi"
+  }
+]
