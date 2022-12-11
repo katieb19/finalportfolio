@@ -1,20 +1,26 @@
 [
   {
     "name": "Personas Project",
-    "description": "This project I created personas",
+    "description": "I conducted user research on the printer system at my university and created visualizations to describe the user experience.",
     "image": "personas.png",
-    "url": "https://excitedelephant401.github.io/personas/"
+    "url": "/personas"
   },
   {
     "name": "Responsive Redesign",
-    "description": "This is a website I redesigned",
+    "description": "I redesigned a responsive website based on a webpage for a Providence education organization.",
     "image": "responsiveRedesign.png",
-    "url":"https://excitedelephant401.github.io/redesignedSite/"
+    "url":"/responsive-redesign"
   },
   {
     "name": "Iterative Design",
-    "description": "A group iterative project",
+    "description": "My group and I used the iterative design process to create prototypes for a healthcare startup called Pyrls.",
     "image": "iterative.png",
-    "url": "https://cs1300-iterative-design.pages.dev/#lofi"
+    "url": "/iterative"
+  },
+  {
+    "name": "React Interface Development",
+    "description": "I made an interactive website for a toy store shopping site using React.",
+    "image": "development.png",
+    "url": "/development"
   }
 ]

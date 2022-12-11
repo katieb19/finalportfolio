@@ -26,7 +26,7 @@ function Home() {
                     <p>Hi,<br></br>
                         I’m an aspiring <b>UX Designer</b> <br></br>
                         based in <b>Providence</b>. I’m <br></br>
-                        interested in working in intersection <br></br> between <b>design</b> and <b>education</b>. 
+                        interested in working in intersection <br></br> between <b>UX design</b> and <b>education</b>. 
                     </p>
                     <button class="btn" onClick={handleClick}>View My Work!</button>
                 </div>

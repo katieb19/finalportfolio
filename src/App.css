@@ -53,8 +53,7 @@ body {
 }
 
 a:-webkit-any-link { 
-  text-decoration: none;
-  color: white; 
+  color: #5265c4;
  }
 
  .projects {
@@ -95,14 +94,128 @@ a:-webkit-any-link {
   border: 1px solid black;
   font-family: 'Public Sans', sans-serif;
   background-color: #EFF6FF;
-  color: black;
   padding: 7px 14px;
   font-size: 12px;
   border-radius: 3px;
   cursor: pointer;
 }
 
+.btn-sm a:-webkit-any-link { 
+  text-decoration: none;
+  color: black;
+ }
+
+ .btn-sm:hover a:-webkit-any-link { 
+  text-decoration: none;
+  color: white;
+ }
+
 .btn-sm:hover {
   background-color: #5265c4;
   color: white;
+}
+
+.about-page {
+  background-color: #EFF6FF;
+  padding-bottom: 50px;
+}
+
+.about {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 4em;
+}
+.about img {
+  width: 30%;
+  height: auto;
+}
+
+.about p {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1vw;
+}
+
+.about h2 {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 2vw;
+}
+
+.about h3 {
+  font-family: 'Public Sans', sans-serif;
+  font-size: 1.5vw;
+}
+
+.mainRight-about {
+  width: 30%;
+}
+
+
+.about-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: start;
+}
+
+.about-item p{
+  margin-left: 10px;
+}
+
+.personas-photos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+}
+
+.personas-photos img {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 60%;
+}
+
+.iterative-photos {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.photo-cap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.photo-cap img {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 60%;
+}
+
+@media (max-width: 700px) {
+  .mainRight-about {
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .about p {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2vw;
+  }
+  
+  .about h2 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 4vw;
+  }
+  
+  .about h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 3vw;
+  }
 }
