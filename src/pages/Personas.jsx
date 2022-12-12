@@ -7,7 +7,7 @@ function Personas() {
                 <div class="personas-photos">
                     <img src="./IMG_4556.jpg" alt="" />
                     <p>An image of the printer that I analyzed for this project</p>
-                    <img src="./EmpathyMap1.jpg" alt="" />
+                    <img src="./EmpathyMap1.JPG" alt="" />
                     <p>An example of one of the empathy maps I made to break down a user's perspective</p>
                 </div>
                 <div class="mainRight-about">
