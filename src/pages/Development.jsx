@@ -4,9 +4,7 @@ function Development() {
     return (
         <div class="about-page">
             <div class="about">
-                <div style={{
-          width: '50%'
-        }}class="personas-photos">
+                <div class="dev-photos">
                     <img src="./development.png" alt="" />
                     <p>An image of the website I made using React</p>
                 </div>

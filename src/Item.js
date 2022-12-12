@@ -10,7 +10,7 @@ export default function Item(props) {
         <div class="description">
             <h4>{props.item.name}</h4>
             <p>{props.item.description}</p>
-            <button class="btn-sm" type="submit"> <Link to={props.item.url}>View Project</Link></button>
+            <Link to={props.item.url}><button class="btn-sm" type="submit">View Project</button></Link>
         </div>
     </div>
 
