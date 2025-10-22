@@ -9,17 +9,15 @@ function About() {
                 <img src="./school.png" alt="" />
                 <div class="mainRight-about">
                     <h2>About</h2>
-                    <p>My name is Excited Elephant and I'm currently a <b>senior at Brown University</b>. I'm studying <b>Computer Science and International & Public Affairs</b>. I'm also interested in education and <b>have worked in a variety of educational settings including classrooms, research, and policy.</b> <br></br>
-                    <br></br>In this portfolio, I will show how these projects connect to my interest in education. These projects have allowed me to understand how design can improve the learning of a new interface.</p>
+                    <p>My name is Katie Baumgarten, and I graduated from <b>Brown University</b> in 2023 with a degree in <b>Computer Science and International & Public Affairs</b>. I’m passionate about using technology, design, and data to drive social impact. <br></br>
+<br></br>I’ve worked across a range of mission-driven organizations, including a <b>government consulting firm, an educational nonprofit, and a local policy think tank</b>. These experiences have shaped my interest in how user-centered design can improve access, equity, and outcomes in public-serving work. <br></br>
+<br></br>This portfolio was originally created as part of my <b>final project for a UI/UX course</b>, and it highlights projects that explore how thoughtful design can support learning, engagement, and adoption of new tools—especially in impact-oriented environments.</p>
+
                     <div class="connect">
                         <h3>Connect with me!</h3>
                             <div class="about-item">
                                 <MdEmail/>
-                                <a href="mailto:excitedelephant401@gmail.com">excitedelephant401@gmail.com</a>
-                            </div>
-                            <div class="about-item">
-                                <FaGithub/>
-                                <a href="https://github.com/excitedelephant401">excitedelephant401</a>
+                                <a href="mailto:katiedb21@gmail.com">excitedelephant401@gmail.com</a>
                             </div>
                     </div>
                 </div>

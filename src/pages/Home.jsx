@@ -24,10 +24,10 @@ function Home() {
                 <img src="./teacher.png" alt="" />
                 <div class="mainRight">
                     <p>Hi,<br></br>
-                        I’m an aspiring <b>UX Designer</b> <br></br>
-                        based in <b>Providence</b>. I’m <br></br>
-                        interested in working in intersection <br></br> between <b>UX design</b> and <b>education</b>. 
-                    </p>
+                        My name is Katie! I’m based in <b>Washington DC</b> and have been supporting government clients in adopting new technologies through human-centered design and data-driven tools. <br></br>
+    I'm passionate about the intersection of <b>UX, technology, and mission-driven work</b>, especially where it supports community impact and social change. <br></br>
+    This site was originally created as part of my <b>final project for a UI/UX course</b> at Brown University.
+                        </p>
                     <button class="btn" onClick={handleClick}>View My Work!</button>
                 </div>
             </div>
